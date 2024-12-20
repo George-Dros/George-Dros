@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm George!
 
-<!--
-**George-Dros/George-Dros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm George, an Applied Mathematics Engineer with a passion for quantitative finance and interactive data visualization. My projects reflect my journey in combining mathematical rigor with practical tools for finance.
 
-Here are some ideas to get you started:
+## 📌 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 1. Volatility Surface Visualization
+- **GitHub Repository**: [Volatility Surface Visualization](https://github.com/George-Dros/Volatility_Surface)
+- **Streamlit App**: [Live Demo](https://implied-volatility-surface-app.streamlit.app/)
+
+This interactive app allows users to generate volatility surfaces for any specified ticker. It's an intuitive tool for traders and analysts to explore implied volatility trends across strike prices and maturities.
+
+---
+
+### 2. Black Scholes Interactive Heatmap
+- **GitHub Repository**: [Black Scholes Interactive Heatmap](https://github.com/George-Dros/Black-Scholes-Interactive-heatmap)
+- **Streamlit App**: [Live Demo](https://black-scholes-interactive-heatmap.streamlit.app/)
+
+This app visualizes option prices using Black-Scholes pricing models. It offers an interactive heatmap and tools for understanding market mispricing, providing actionable insights for options trading.
+
+---
+
+## 🔗 Let's Connect!
+- [LinkedIn Profile](https://www.linkedin.com/in/georgios-drosogiannis/) - Feel free to reach out for collaboration or opportunities in quantitative finance.
