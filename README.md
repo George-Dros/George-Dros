@@ -1,7 +1,6 @@
 # 👋 Hi, I'm George!
 
-Welcome to my GitHub profile! I'm George, an Applied Mathematics Engineer with a passion for quantitative finance and interactive data visualization. My projects reflect my journey in combining mathematical rigor with practical tools for finance.
-
+Welcome to my GitHub profile! I'm George, an Applied Mathematics Engineer with a passion for quantitative finance and interactive data visualization.
 ## 📌 Featured Projects
 
 ### 1. Volatility Surface Visualization
