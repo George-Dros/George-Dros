@@ -23,7 +23,7 @@ This app generates option price heatmaps using the Black-Scholes model. Customiz
 
 ---
 
-### 3. Data Analysis Dashboard  
+### 3. Airbnb Data Analysis Dashboard  
 - **GitHub Repository**: [Airbnb Listings Analysis Dashboard](https://github.com/George-Dros/airbnb-data-analysis) 
 - **Streamlit App**: [Live Demo](https://airbnb-data-analysis-4bt46peyrzkpvljg6fkqtz.streamlit.app/)
 
