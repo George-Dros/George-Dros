@@ -34,7 +34,7 @@ An interactive dashboard for exploring Airbnb listings in any city. Includes fil
 ## 🧰 Tech Stack  
 
 - **Languages**: Python, SQL, Fortran  
-- **Libraries**: Pandas, NumPy, Streamlit, Matplotlib, Seaborn  
+- **Libraries**: Pandas, NumPy, Streamlit, Matplotlib, Seaborn, HDBSCAN, UMAP  
 - **Tools**: Git, JupyterLab, LaTeX  
 - **Currently exploring**: lightweight data APIs, modeling workflows, scientific computing
 
