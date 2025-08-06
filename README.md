@@ -1,11 +1,11 @@
-# 👋 Hi, I'm George!
+# Hi, I'm George!
 
 Welcome to my GitHub profile!
 I'm an Applied Mathematics graduate with a focus on Python-based data analysis, modeling, and interactive tools. I enjoy building clear, purposeful applications—especially those that make complex ideas easier to explore.
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### 1. Volatility Surface Visualization
 - **GitHub Repository**: [Volatility Surface Visualization](https://github.com/George-Dros/Volatility_Surface)
@@ -31,10 +31,10 @@ An interactive dashboard for exploring Airbnb listings in any city. Includes fil
 
 ---
 
-## 🧰 Tech Stack  
+## Tech Stack  
 
 - **Languages**: Python, SQL, Fortran  
-- **Libraries**: Pandas, NumPy, Streamlit, Matplotlib, Seaborn, HDBSCAN, UMAP  
+- **Libraries**: Pandas, NumPy, Streamlit, Matplotlib, Seaborn, HDBSCAN, UMAP, Pytorch  
 - **Tools**: Git, JupyterLab, LaTeX  
 - **Currently exploring**: lightweight data APIs, modeling workflows, scientific computing
 
