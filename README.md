@@ -7,7 +7,15 @@ I'm an Applied Mathematics graduate with a focus on Python-based data analysis, 
 
 ## Featured Projects
 
-### 1. Volatility Surface Visualization
+### 1. Deep Hedging Neural Network for Derivatives Pricing  
+- **GitHub Repository**: [Deep Hedging for Options](https://github.com/George-Dros/Deep-Hedging-Neural-Network-for-Derivatives-Pricing)
+
+A PyTorch project that trains a GRU-based neural network to dynamically hedge European call options under realistic market conditions (volatility spikes, jumps, regime shifts).  
+Includes CVaR-based loss function, full simulation environment, and backtesting with benchmark metrics and plots.
+
+---
+
+### 2. Volatility Surface Visualization
 - **GitHub Repository**: [Volatility Surface Visualization](https://github.com/George-Dros/Volatility_Surface)
 - **Streamlit App**: [Live Demo](https://implied-volatility-surface-app.streamlit.app/)
 
@@ -15,7 +23,7 @@ Interactive tool for visualizing implied volatility surfaces across strike price
 
 ---
 
-### 2. Black Scholes Interactive Heatmap
+### 3. Black Scholes Interactive Heatmap
 - **GitHub Repository**: [Black Scholes Interactive Heatmap](https://github.com/George-Dros/Black-Scholes-Interactive-heatmap)
 - **Streamlit App**: [Live Demo](https://black-scholes-interactive-heatmap.streamlit.app/)
 
@@ -23,7 +31,7 @@ This app generates option price heatmaps using the Black-Scholes model. Customiz
 
 ---
 
-### 3. Airbnb Data Analysis Dashboard  
+### 4. Airbnb Data Analysis Dashboard  
 - **GitHub Repository**: [Airbnb Listings Analysis Dashboard](https://github.com/George-Dros/airbnb-data-analysis) 
 - **Streamlit App**: [Live Demo](https://airbnb-data-analysis-4bt46peyrzkpvljg6fkqtz.streamlit.app/)
 
@@ -34,11 +42,11 @@ An interactive dashboard for exploring Airbnb listings in any city. Includes fil
 ## Tech Stack  
 
 - **Languages**: Python, SQL, Fortran  
-- **Libraries**: Pandas, NumPy, Streamlit, Matplotlib, Seaborn, HDBSCAN, UMAP, Pytorch  
+- **Libraries**: Pandas, NumPy, Streamlit, scikit-learn, Matplotlib, Seaborn, HDBSCAN, UMAP, Pytorch  
 - **Tools**: Git, JupyterLab, LaTeX  
-- **Currently exploring**: lightweight data APIs, modeling workflows, scientific computing
+- **Currently exploring**: reinforcement learning, financial modeling workflows, and lightweight APIs
 
 ---
 
-## 🔗 Let's Connect!
+## Let's Connect!
 - Feel free to explore the repos, fork anything useful, or reach out via [LinkedIn Profile](https://www.linkedin.com/in/georgios-drosogiannis/).
