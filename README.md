@@ -10,8 +10,8 @@ I'm an Applied Mathematics graduate with a focus on Python-based data analysis, 
 ### 1. Deep Hedging Neural Network for Derivatives Pricing  
 - **Repository**: [Deep Hedging for Options](https://github.com/George-Dros/Deep-Hedging-Neural-Network-for-Derivatives-Pricing)
 
-A PyTorch project that trains a GRU-based neural network to dynamically hedge European call options under realistic market conditions (volatility spikes, jumps, regime shifts).  
-Includes CVaR-based loss function, full simulation environment, and backtesting with benchmark metrics and plots.
+A TensorFlor project that trains a GRU-based neural network to dynamically hedge European call options under realistic market conditions, using generated volatility: spikes, jumps, regime shifts, or through Heston.  
+Includes CVaR-based loss function, full simulation environment, and backtesting with benchmark metrics and plots. Significant CVaR90 and VaR90 reduction was noted compared to zero hedged baseline.
 
 ---
 
