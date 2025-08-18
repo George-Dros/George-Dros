@@ -1,7 +1,7 @@
 # Hi, I'm George!
 
 Welcome to my GitHub profile!
-I'm an Applied Mathematics graduate with a focus on Python-based data analysis, modeling, and interactive tools. I enjoy building clear, purposeful applications—especially those that make complex ideas easier to explore.
+I'm an Applied Mathematics graduate with a focus on Python-based data analysis, modeling, and interactive tools. I enjoy building clear, purposeful applications, especially those that make complex ideas easier to explore.
 
 ---
 
