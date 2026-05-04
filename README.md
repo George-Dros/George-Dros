@@ -1,7 +1,8 @@
 # Hi, I'm George!
 
-Welcome to my GitHub profile!
-I'm an Applied Mathematics graduate with a focus on Python-based data analysis, modeling, and interactive tools. I enjoy building clear, purposeful applications, especially those that make complex ideas easier to explore.
+I'm an Applied Mathematics and Physical Sciences graduate from NTUA, currently working as a **Power Trading Trainee** in the energy markets sector.
+
+My GitHub focuses on Python-based financial modeling, data analysis, interactive dashboards, and quantitative tools. I’m especially interested in projects that connect mathematical modeling, market behavior, risk, and practical decision-making.
 
 ---
 
@@ -10,8 +11,9 @@ I'm an Applied Mathematics graduate with a focus on Python-based data analysis, 
 ### 1. Deep Hedging Neural Network for Derivatives Pricing  
 - **Repository**: [Deep Hedging for Options](https://github.com/George-Dros/Deep-Hedging-Neural-Network-for-Derivatives-Pricing)
 
-A TensorFlor project that trains a GRU-based neural network to dynamically hedge European call options under realistic market conditions, using generated volatility: 1. Through spikes, jumps, regime shifts, or 2. through Heston and Merton Diffusion combined.  
-Includes CVaR-based loss function, full simulation environment, and backtesting with benchmark metrics and plots. Significant CVaR90 and VaR90 reduction was noted compared to zero hedged baseline.
+A TensorFlow project that trains a GRU-based neural network to dynamically hedge European call options under realistic simulated market conditions, including volatility spikes, jumps, regime shifts, and combined Heston/Merton jump-diffusion dynamics.
+
+The project includes a full simulation environment, a CVaR-based loss function, backtesting, benchmark comparisons, and diagnostic plots. Results showed significant CVaR90 and VaR90 reduction compared to an unhedged baseline.
 
 ---
 
@@ -19,15 +21,19 @@ Includes CVaR-based loss function, full simulation environment, and backtesting 
 - **Repository**: [Volatility Surface Visualization](https://github.com/George-Dros/Volatility_Surface)
 - **Streamlit App**: [Live Demo](https://implied-volatility-surface-app.streamlit.app/)
 
-Interactive tool for visualizing implied volatility surfaces across strike prices and time-to-maturity for any given ticker. Useful for traders and analysts interpreting market expectations and option behaviors.
+An interactive Streamlit tool for visualizing implied volatility surfaces across strike prices and time-to-maturity for a selected ticker.
+
+The app helps explore how implied volatility changes across the option chain and can support interpretation of market expectations, skew, term structure, and option-pricing behavior.
 
 ---
 
-### 3. Black Scholes Interactive Heatmap
-- **Repository**: [Black Scholes Interactive Heatmap](https://github.com/George-Dros/Black-Scholes-Interactive-heatmap)
+### 3. Black-Scholes Interactive Heatmap
+- **Repository**: [Black-Scholes Interactive Heatmap](https://github.com/George-Dros/Black-Scholes-Interactive-heatmap)
 - **Streamlit App**: [Live Demo](https://black-scholes-interactive-heatmap.streamlit.app/)
 
-This app generates option price heatmaps using the Black-Scholes model. Customize inputs like volatility and risk-free rate to explore pricing behavior and market mispricing signals.
+An interactive option-pricing app based on the Black-Scholes model.
+
+Users can adjust parameters such as volatility, risk-free rate, strike price, and time-to-maturity to generate option price heatmaps and explore how pricing changes under different market assumptions.
 
 ---
 
@@ -35,18 +41,31 @@ This app generates option price heatmaps using the Black-Scholes model. Customiz
 - **Repository**: [Airbnb Listings Analysis Dashboard](https://github.com/George-Dros/airbnb-data-analysis) 
 - **Streamlit App**: [Live Demo](https://airbnb-data-analysis-4bt46peyrzkpvljg6fkqtz.streamlit.app/)
 
-An interactive dashboard for exploring Airbnb listings in any city. Includes filters for room type, price, availability, and superhost status. Provides automatic visual insights through boxplots, scatter plots, histograms, and a summary panel.
+An interactive dashboard for exploring Airbnb listings by city.
+
+The app includes filters for room type, price, availability, and superhost status, along with automatic visual insights through boxplots, scatter plots, histograms, and summary metrics.
 
 ---
 
 ## Tech Stack  
 
 - **Languages**: Python, SQL, Fortran  
-- **Libraries**: Pandas, NumPy, Streamlit, scikit-learn, Matplotlib, Seaborn, HDBSCAN, UMAP, Pytorch, TensorFlow   
+- **Libraries**: Pandas, NumPy, Streamlit, scikit-learn, Matplotlib, Seaborn, HDBSCAN, UMAP, PyTorch, TensorFlow  
 - **Tools**: Git, JupyterLab, LaTeX  
-- **Currently exploring**: reinforcement learning, financial modeling workflows, and lightweight APIs
+- **Currently exploring**: energy markets, power trading workflows, financial modeling, reinforcement learning, and lightweight APIs
+
+---
+
+## Interests
+
+- Energy markets and power trading  
+- Quantitative finance and risk modeling  
+- Financial data analysis  
+- Interactive analytical tools  
+- Python-based modeling and simulation  
 
 ---
 
 ## Let's Connect!
-- Feel free to explore the repos, fork anything useful, or reach out via [LinkedIn Profile](https://www.linkedin.com/in/georgios-drosogiannis/).
+
+Feel free to explore the repositories, fork anything useful, or reach out via my [LinkedIn profile](https://www.linkedin.com/in/georgios-drosogiannis/).
