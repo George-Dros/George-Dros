@@ -1,6 +1,6 @@
 # Hi, I'm George!
 
-I'm an Applied Mathematics and Physical Sciences graduate from NTUA, currently working as an **Energy Trader** in the energy markets sector.
+I'm an Applied Mathematics and Physical Sciences graduate from NTUA, currently working as a certified **Energy Trader** in the energy markets sector.
 
 My GitHub focuses on Python-based financial modeling, data analysis, interactive dashboards, and quantitative tools. I’m especially interested in projects that connect mathematical modeling, market behavior, risk, and practical decision-making.
 
